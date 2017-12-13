@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 62349515ea252e149a99453d77982b8b
+timeCreated: 1500032453
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Roland
+  fontNames:
+  - Roland
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

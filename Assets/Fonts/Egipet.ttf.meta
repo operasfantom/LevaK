@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ff6496f4dec77b74d8ffff2ae1167d16
+timeCreated: 1500032469
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Egipet
+  fontNames:
+  - Egipet
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

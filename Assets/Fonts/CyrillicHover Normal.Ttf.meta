@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 56c5ca2e69640ea49b29edc2999d9458
+timeCreated: 1500032452
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CyrillicHover
+  fontNames:
+  - CyrillicHover
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

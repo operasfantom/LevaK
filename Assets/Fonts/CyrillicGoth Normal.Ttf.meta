@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6dd24590cd8e74844bdde647957dbbb8
+timeCreated: 1500032454
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CyrillicGoth
+  fontNames:
+  - CyrillicGoth
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2d64cfb49758bfb4eb490f9c37984b7e
+timeCreated: 1500032447
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kabarett Decor DEMO
+  fontNames:
+  - Kabarett Decor DEMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

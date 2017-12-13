@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2755d9729e8971f4d97c0fe3a67198f8
+timeCreated: 1500321779
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Souvienne
+  fontNames:
+  - Souvienne
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bca395241e1dda743a65ef6aa2c3a5de, type: 3}
+  - {fileID: 12800000, guid: b0a4c3c7e9c9c8a46be31457df9bb26c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

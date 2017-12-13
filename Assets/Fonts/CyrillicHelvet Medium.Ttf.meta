@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b56aaf7ef9097234bbbe66b550d367db
+timeCreated: 1500032462
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CyrillicHelvet
+  fontNames:
+  - CyrillicHelvet
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 40b755dc90f11f84ea05f7134134785b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

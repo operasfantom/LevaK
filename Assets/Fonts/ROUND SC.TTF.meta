@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: baefe03393afdbe42aeb1fd1c4df9957
+timeCreated: 1500032462
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Round Script
+  fontNames:
+  - Round Script
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

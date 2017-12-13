@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 57145d4aaace02b4390edf33cf05cad0
+timeCreated: 1500032452
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Andantino script
+  fontNames:
+  - Andantino script
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 76cf751ed5d7fda448683a1dcf402508, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7aa38f808cfb6b946ab69324b4f88e74
+timeCreated: 1500032455
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Postmodern Two
+  fontNames:
+  - Postmodern Two
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
